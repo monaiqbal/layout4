@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    background-color: green;
+    height: 70px;
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+.emailId{
+    background-color: greenyellow;
+   text-align: center;
+    height: 70px;
+    width: 70%;
+    float: left;
+}
+.bar{
+    text-align: center;
+    background-color: blue;
+    height: 70px;
+}
+.bar h1{
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: crimson;
+    height: 400px;
+    width: 33.3%;
+    float: left;
+}
+.middle{
+    background-color:lightblue;
+    height: 400px;
+    width: 33.3%;
+    float: left;
+}
+.right{
+    background-color: gray;
+    height: 400px;
+    width: 33.3%;
+    float: left;
+}
+.top_left{
+    background-color: rgb(212, 55, 86);
+    text-align: center;
+    height: 20%;
+
+}
+.top_middle{
+    background-color: rgb(182, 34, 63);
+    text-align: center;
+    height: 20%;
+    
+}
+.top_bottom{
+    background-color: crimson;
+    text-align: center;
+    height: 60%;
+    
+}
+.middle_top{
+    background-color: cyan;
+    text-align: center;
+    height: 30%;
+}
+.middle_bottom{
+    background-color: darkcyan;
+    text-align: center;
+    height: 70%;
+}
+.right_top{
+    background-color: dimgray;
+    text-align: center;
+    height: 20%;
+}
+.right_top h1{
+    color: white;
+}
+.right_middle{
+    background-color: black;
+    text-align: center;
+    height: 50%;
+}
+.right_middle h1{
+    color: white;
+}
+.right_bottom{
+    background-color: chocolate;
+    text-align: center;
+    height: 30%;
+}
+.right_bottom h1{
+    color: white;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+    height: 200px;
+}
+.footer h1{
+    color: white;
+}
